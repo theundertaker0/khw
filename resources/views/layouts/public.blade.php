@@ -3,7 +3,7 @@
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 
 <head>
-	<title>{{config("app,name")}}</title>
+	<title>{{config("app.name")}}</title>
 	<!-- Meta tag Keywords -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="UTF-8" />
@@ -116,10 +116,10 @@
 						<label for="drop" class="toggle">Menu</label>
 						<input type="checkbox" id="drop" />
 						<ul class="menu">
-							<li><a href="{{url('/')}}">nicio</a></li>
+							<li><a href="{{url('/')}}">Inicio</a></li>
 							<li><a href="#aboutus">Nosotros</a></li>
                             <li><a href="#services">servicios</a></li>
-							<li><a href="menu.html">Menu</a></li>
+							<li><a href="menu.html">Menú</a></li>
 							<li><a href="contact.html">Contáctanos</a></li>
 						</ul>
 					</nav>
@@ -167,7 +167,7 @@
 						<h3>Contáctanos</h3>
 					</div>
 					<div class="footer-text mt-4">
-						<p>Dirección : C. 55A #660 x 62A y 62B Las Palmas, Flamboyanes</p>
+						<p>Dirección : C. 55A #640 x 62A y 62B Las Palmas, Flamboyanes</p>
 						<p class="my-2">Whatsapp : 9993533192</p>
 						<p>Email : <a href="mailto:kamehousewings@gmail.com">kamehousewings@gmail.com</a></p>
 					</div>
