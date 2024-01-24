@@ -6,7 +6,7 @@
                     <div class="banner-info_agile_w3ls">
                         <h5>Solo Alas Frescas</h5>
                         <h3 class="text-da mb-4">Alitas<span> Frescas Fritas</span> </h3>
-                        <p>En Kame House Wings únicamente utilizamos alas frescas seleccionadas y del día, todo esto para que  para que conserven todo su increible sabor.</p>
+                        <p>En Kame House Wings únicamente utilizamos alas frescas seleccionadas y del día, todo esto para que conserven todo su increible sabor.</p>
                         {{-- <a href="about.html" class="button-w3ls active mt-5">Read More
                             <span class="fa fa-caret-right ml-1" aria-hidden="true"></span>
                         </a>

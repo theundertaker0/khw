@@ -278,7 +278,7 @@ a.drop-text:hover {
     background: #f5f5f5;
 }
 
-/* Second, Third and more Tiers	
+/* Second, Third and more Tiers
  * We move the 2nd and 3rd etc tier dropdowns to the left
  * by the amount of the width of the first tier.
 */
@@ -559,7 +559,7 @@ a.button-w3ls:hover {
 }
 
 .banner-top1 {
-    background: url(../images/1.jpg) no-repeat bottom;
+    background: url(../images/alas_plato.jpg) no-repeat bottom;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
